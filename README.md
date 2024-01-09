@@ -11,5 +11,3 @@ freeCodeCamp.org - 15 JavaScript Projects : https://github.com/john-smilga/javas
 ## Preview 
 ![image](https://github.com/Mariam-Levy/video/assets/80288291/ee43c6be-d71e-4b1f-b95d-9191db070d9b)
 ![image](https://github.com/Mariam-Levy/video/assets/80288291/9afb7e53-de24-489e-9c09-dd143db6b9a6)
-
-
